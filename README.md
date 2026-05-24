@@ -27,4 +27,3 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img src="architecture.jpeg">
 
 
-https://medium.com/@tomasidikis/data-engineering-youtube-analysis-project-in-aws-30f21fbdd5ac
